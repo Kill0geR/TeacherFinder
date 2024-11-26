@@ -38,14 +38,14 @@ def find():
     teacher_name = None
 
     try:
-        sorted_lst = Finder.sort_time_table(list(set((all_data.get(teacher, [])))))  # Handle when teacher not found
+        sorted_lst = Finder.sort_time_table(list(set((all_data.get(teacher, [])))))
         print(sorted_lst)
     except Exception as e:
         print(e)
         sorted_lst = None
 
     try:
-        teacher_name = finder.get_all_dict().get(teacher, teacher)
+        teacher_name = all_names[teacher.title()]
         output = finder.check_time_in_range(all_data.get(teacher, []))
         room = output["room"] if output else "Die Lehrperson hat derzeit keinen Unterricht"
 
