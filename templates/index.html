@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if not teacher %}
+        <title>Teacher Finder </title>
+    {% else %}
+        <title>Teacher Finder für {{ teacher }}</title>
+    {% endif %}
+</head>
+<body>
+  <div class="container">
+        {% if not teacher %}
+            <h1>Teacher Finder</h1>
+            <form action="/find" method="post">
+                <label for="input_string">Gib den Lehrerkürzel ein:</label><br>
+                <input type="text" id="input_string" name="input_string"><br>
+                <button type="submit">Durchsuchen</button>
+            </form>
+        {% else %}
+            <h1 style="color: #4CAF50;">Lehrerzimmer gefunden für <i>{{ teacher }}</i></h1>
+            <p><b>{{ teacher }}</b> <br>ist derzeit im Raum </p>
+            <h1>{{ room }}</h1>
+            {% if sorted_lst %}
+                <hr>
+                <div style="text-align: center;">
+                    <h1 style="color: #4CAF50;">Unterrichtstunden der Lehrperson</h1>
+                        {% for lesson, each_time in sorted_lst %}
+                            <p>{{ lesson }}. Stunde im Raum <span style="font-weight: bold;">{{each_time.split("-")[-3]}}</span> -
+                                Fach: <span style="font-weight: bold;">{{each_time.split("-")[-2]}}</span> -
+                                Klasse: <span style="font-weight: bold;">{{each_time.split("-")[-1]}}</span></p>
+                        {% endfor %}
+                </div>
+            {% endif %}
+            <form action="/redirect_home">
+              <button type="submit">Back</button>
+            </form>
+        {% endif %}
+
+    </div>
+</body>
+</html>
