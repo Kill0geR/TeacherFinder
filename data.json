@@ -1,0 +1,507 @@
+{
+    "current_data": [
+        {
+            "Bbm": [
+                "09:40 - 10:30 - laho - Religion Kath. - 5li"
+            ],
+            "Wiu": [
+                "08:45 - 09:35 - laho - Deutsch - 5li",
+                "11:35 - 12:25 - laho - Deutsch - 6li",
+                "12:25 - 13:15 - laho - Geschichte Und Politsche Bildung - 6li"
+            ],
+            "Mar": [
+                "07:50 - 08:40 - laho - Englisch - 5li",
+                "10:45 - 11:35 - laho - Geographie Und Wirtschaftsbildung - 5li"
+            ],
+            "Ald": [
+                "10:45 - 11:35 - 133 - Religion Kath. - 5ab",
+                "10:45 - 11:35 - 133 - Religion Kath. - 5am",
+                "08:45 - 09:35 - 048 - Religion Kath. - 6ab",
+                "08:45 - 09:35 - 048 - Religion Kath. - 6am",
+                "09:40 - 10:30 - 144 - Religion Kath. - 6t",
+                "07:50 - 08:40 - 055 - Religion Kath. - 7aa",
+                "07:50 - 08:40 - 055 - Religion Kath. - 7am"
+            ],
+            "Wej": [
+                "08:45 - 09:35 - 133 - Deutsch - 5ab",
+                "09:40 - 10:30 - 133 - Deutsch - 5ab",
+                "08:45 - 09:35 - 133 - Deutsch - 5am",
+                "09:40 - 10:30 - 133 - Deutsch - 5am",
+                "10:45 - 11:35 - 233 - Deutsch - 5ga",
+                "07:50 - 08:40 - 244 - Deutsch - 6bn",
+                "11:35 - 12:25 - Bib - Musik - 6bn",
+                "12:25 - 13:15 - U65 - Deutsch - 6ga"
+            ],
+            "Nai": [
+                "08:45 - 09:35 - 37a - Englisch - 5ab",
+                "08:45 - 09:35 - 37a - Englisch - 5am",
+                "07:50 - 08:40 - 134 - Englisch - 5es",
+                "10:45 - 11:35 - 248 - Englisch - 6es"
+            ],
+            "Ktn": [
+                "09:40 - 10:30 - 271 - Englisch - 5ab",
+                "09:40 - 10:30 - 271 - Englisch - 5am",
+                "10:45 - 11:35 - 234 - Englisch - 5fa"
+            ],
+            "Sto": [
+                "12:25 - 13:15 - 133 - Latein - 5ab",
+                "12:25 - 13:15 - 133 - Latein - 5am",
+                "10:45 - 11:35 - 012 - Latein - 5p",
+                "09:40 - 10:30 - U65 - Latein - 6fa",
+                "11:35 - 12:25 - 248 - Englisch - 6ga",
+                "09:40 - 10:30 - U65 - Latein - 6ga",
+                "07:50 - 08:40 - 132 - Latein - 7ci",
+                "08:45 - 09:35 - 37b - Latein - 7fa",
+                "07:50 - 08:40 - 132 - Latein - 7p"
+            ],
+            "Moc": [
+                "12:25 - 13:15 - 055 - Franz\u00f6sisch - 5ab",
+                "12:25 - 13:15 - 055 - Franz\u00f6sisch - 5am",
+                "10:45 - 11:35 - 231 - Musik - 5ci",
+                "08:45 - 09:35 - 271 - Franz\u00f6sisch - 5es",
+                "13:20 - 14:10 - 023 - Klavier - 8am"
+            ],
+            "Hoe": [
+                "07:50 - 08:40 - 133 - Geschichte Und Politsche Bildung - 5ab",
+                "07:50 - 08:40 - 133 - Geschichte Und Politsche Bildung - 5am",
+                "12:25 - 13:15 - 234 - Geschichte Und Politsche Bildung - 5fa",
+                "10:45 - 11:35 - TS2 - Bewegung Und Sport Knaben - 7t",
+                "11:35 - 12:25 - TS2 - Bewegung Und Sport Knaben - 7t"
+            ],
+            "Rie": [
+                "11:35 - 12:25 - 271 - Mathematik - 5ab",
+                "11:35 - 12:25 - 271 - Mathematik - 5am",
+                "12:25 - 13:15 - 233 - Mathematik - 5ga",
+                "10:45 - 11:35 - Aula - Mathematik - 6fa",
+                "07:50 - 08:40 - Aula - Mathematik - 6ga"
+            ],
+            "Sca": [
+                "11:35 - 12:25 - 133 - Mathematik - 5ab",
+                "11:35 - 12:25 - 133 - Mathematik - 5am",
+                "09:40 - 10:30 - U42 - Mathematik - 6s",
+                "12:25 - 13:15 - 112 - Chemie - 7aa",
+                "13:20 - 14:10 - 112 - Chemie - 7aa",
+                "12:25 - 13:15 - 112 - Chemie - 7am",
+                "13:20 - 14:10 - 112 - Chemie - 7am",
+                "08:45 - 09:35 - 132 - Mathematik - 7ci",
+                "10:45 - 11:35 - U41 - Mathematik - 7s",
+                "07:50 - 08:40 - 112 - Mathematik - 8ab"
+            ],
+            "Pan": [
+                "13:20 - 14:10 - 133 - Geographie Und Wirtschaftsbildung - 5ab",
+                "13:20 - 14:10 - 133 - Geographie Und Wirtschaftsbildung - 5am",
+                "09:40 - 10:30 - TS1 - Ballspiele - 5es",
+                "07:50 - 08:40 - TS1 - Ballspiele - 7es",
+                "08:45 - 09:35 - TS1 - Ballspiele - 7es",
+                "10:45 - 11:35 - TS1 - Bewegung Und Sport M\u00e4dchen - 7p",
+                "11:35 - 12:25 - TS1 - Bewegung Und Sport M\u00e4dchen - 7p",
+                "10:45 - 11:35 - TS1 - Bewegung Und Sport M\u00e4dchen - 7t",
+                "11:35 - 12:25 - TS1 - Bewegung Und Sport M\u00e4dchen - 7t"
+            ],
+            "Der": [
+                "10:45 - 11:35 - 023 - Klavier - 5am",
+                "08:45 - 09:35 - 055 - Deutsch - 7aa",
+                "08:45 - 09:35 - 055 - Deutsch - 7am"
+            ],
+            "Gri": [
+                "14:10 - 15:00 - 022 - Klavier - 5am",
+                "13:20 - 14:10 - 022 - Schlagzeug - 8am"
+            ],
+            "Wei": [
+                "10:45 - 11:35 - 146 - Deutsch - 5bn",
+                "11:35 - 12:25 - 148 - Deutsch - 7bn"
+            ],
+            "Kre": [
+                "10:45 - 11:35 - 131 - Englisch - 5bn",
+                "12:25 - 13:15 - 131 - Informatik - 5bn",
+                "13:20 - 14:10 - 131 - Informatik - 5bn",
+                "12:25 - 13:15 - 131 - Informatik - 5bn",
+                "13:20 - 14:10 - 131 - Informatik - 5bn",
+                "09:40 - 10:30 - 231 - Mediendesign 2 - 5ci",
+                "11:35 - 12:25 - 055 - Englisch - 7aa",
+                "11:35 - 12:25 - 055 - Englisch - 7am",
+                "08:45 - 09:35 - 144 - Englisch - 7bn",
+                "07:50 - 08:40 - 247 - Englisch - 8p"
+            ],
+            "Bar": [
+                "09:40 - 10:30 - 146 - Latein - 5bn",
+                "08:45 - 09:35 - 248 - Latein - 5es",
+                "11:35 - 12:25 - 244 - Latein - 5fa",
+                "10:45 - 11:35 - 238 - Latein - 5s",
+                "12:25 - 13:15 - U42 - Latein - 6es"
+            ],
+            "His": [
+                "09:40 - 10:30 - 131 - Franz\u00f6sisch - 5bn",
+                "09:40 - 10:30 - 131 - Franz\u00f6sisch - 5ga",
+                "10:45 - 11:35 - 240 - Mathematik - 6ab",
+                "10:45 - 11:35 - 240 - Mathematik - 6am",
+                "11:35 - 12:25 - 131 - Franz\u00f6sisch - 6s",
+                "07:50 - 08:40 - U35 - Franz\u00f6sisch - 9s",
+                "07:50 - 08:40 - U35 - Franz\u00f6sisch - 9t",
+                "08:45 - 09:35 - U35 - Mathematik - 9t"
+            ],
+            "Keh": [
+                "07:50 - 08:40 - 131 - Geschichte Und Politsche Bildung - 5bn",
+                "08:45 - 09:35 - 131 - Geographie Und Wirtschaftsbildung - 5bn",
+                "11:35 - 12:25 - 134 - Geographie Und Wirtschaftsbildung - 6ab",
+                "11:35 - 12:25 - 134 - Geographie Und Wirtschaftsbildung - 6am",
+                "10:45 - 11:35 - 132 - Geschichte Und Politsche Bildung - 7ci",
+                "09:40 - 10:30 - 239 - Geographie Und Wirtschaftsbildung - 8ci",
+                "12:25 - 13:15 - 246 - Geographie Und Wirtschaftsbildung - 8fa"
+            ],
+            "Stm": [
+                "11:35 - 12:25 - 111 - Physik - 5bn",
+                "09:40 - 10:30 - 111 - Physik - 6es",
+                "10:45 - 11:35 - 111 - Physik2 - 7bn",
+                "12:25 - 13:15 - 132 - Physik - 7ci",
+                "13:20 - 14:10 - 248 - Physik - 7p"
+            ],
+            "Loi": [
+                "07:50 - 08:40 - 012 - Englisch - 5ci",
+                "08:45 - 09:35 - 012 - Englisch - 5ci",
+                "09:40 - 10:30 - 012 - Mediendesign 2 - 5ci",
+                "10:45 - 11:35 - 232 - Mediendesign 3 - 6ci"
+            ],
+            "Ste": [
+                "07:50 - 08:40 - 231 - Englisch - 5ci",
+                "08:45 - 09:35 - 231 - Englisch - 5ci",
+                "09:40 - 10:30 - 112 - Englisch - 6bn"
+            ],
+            "Rai": [
+                "11:35 - 12:25 - 145 - Mathematik - 5ci",
+                "10:45 - 11:35 - 37b - Mathematik - 7fa"
+            ],
+            "Poe": [
+                "11:35 - 12:25 - 231 - Mathematik - 5ci",
+                "07:50 - 08:40 - 232 - Mediendesign 1 - 6ci",
+                "08:45 - 09:35 - 232 - Mediendesign 1 - 6ci",
+                "10:45 - 11:35 - 139 - Mediendesign 3 - 6ci"
+            ],
+            "Rad": [
+                "10:45 - 11:35 - 134 - Deutsch - 5es",
+                "10:45 - 11:35 - 134 - Deutsch - 5es",
+                "12:25 - 13:15 - 109 - Geschichte Und Politsche Bildung - 5p",
+                "08:45 - 09:35 - 146 - Deutsch - 6s",
+                "09:40 - 10:30 - U41 - Deutsch - 7s",
+                "11:35 - 12:25 - 240 - Geographie Und Wirtschaftsbildung - 8ab",
+                "11:35 - 12:25 - 240 - Geographie Und Wirtschaftsbildung - 8am"
+            ],
+            "Sgl": [
+                "11:35 - 12:25 - 108 - Biologie Und Umweltbildung - 5es",
+                "13:20 - 14:10 - 108 - Biologie Und Umweltbildung - 8ga"
+            ],
+            "Zmk": [
+                "12:25 - 13:15 - 053 - Musik - 5es",
+                "11:35 - 12:25 - 053 - Musik - 5s",
+                "07:50 - 08:40 - 271 - Franz\u00f6sisch - 6ab",
+                "07:50 - 08:40 - 271 - Franz\u00f6sisch - 6am",
+                "09:40 - 10:30 - 053 - Musik - 8am",
+                "10:45 - 11:35 - 053 - Musik - 8am"
+            ],
+            "Fit": [
+                "10:45 - 11:35 - U73 - Deutsch - 5fa",
+                "09:40 - 10:30 - 240 - Deutsch - 6ab",
+                "14:10 - 15:00 - 131 - Deutsch Als Zweitsprache - 6ab",
+                "15:00 - 15:50 - 131 - Deutsch Als Zweitsprache - 6ab",
+                "09:40 - 10:30 - 240 - Deutsch - 6am",
+                "14:10 - 15:00 - 131 - Deutsch Als Zweitsprache - 6ci",
+                "15:00 - 15:50 - 131 - Deutsch Als Zweitsprache - 6ci",
+                "14:10 - 15:00 - 131 - Deutsch Als Zweitsprache - 6es",
+                "15:00 - 15:50 - 131 - Deutsch Als Zweitsprache - 6es",
+                "14:10 - 15:00 - 131 - Deutsch Als Zweitsprache - 6t",
+                "15:00 - 15:50 - 131 - Deutsch Als Zweitsprache - 6t",
+                "14:10 - 15:00 - 131 - Deutsch Als Zweitsprache - 7li",
+                "15:00 - 15:50 - 131 - Deutsch Als Zweitsprache - 7li",
+                "11:35 - 12:25 - 239 - Psych. U. Philos. - 8ci",
+                "08:45 - 09:35 - 245 - Deutsch - 8ga"
+            ],
+            "Hei": [
+                "11:35 - 12:25 - 234 - Deutsch - 5fa",
+                "09:40 - 10:30 - 132 - Deutsch - 7ci",
+                "07:50 - 08:40 - 246 - Deutsch - 8fa"
+            ],
+            "Pee": [
+                "07:50 - 08:40 - 138 - Informatik - 5fa",
+                "08:45 - 09:35 - 138 - Informatik - 5fa"
+            ],
+            "Pla": [
+                "07:50 - 08:40 - 140 - Informatik - 5fa",
+                "08:45 - 09:35 - 140 - Informatik - 5fa",
+                "10:45 - 11:35 - 144 - Netzwerktechnik - 6t",
+                "11:35 - 12:25 - 144 - Netzwerktechnik - 6t",
+                "10:45 - 11:35 - 144 - Netzwerktechnik - 6t",
+                "11:35 - 12:25 - 144 - Netzwerktechnik - 6t",
+                "09:40 - 10:30 - 145 - Mathematik - 7t"
+            ],
+            "Kai": [
+                "09:40 - 10:30 - 234 - Sportkunde - 5fa",
+                "13:20 - 14:10 - TS4 - Bewegung Und Sport M\u00e4dchen - 7db",
+                "14:10 - 15:00 - TS4 - Bewegung Und Sport M\u00e4dchen - 7db",
+                "12:25 - 13:15 - U73 - Geschichte Und Politsche Bildung - 8s",
+                "10:45 - 11:35 - 246 - Sportkunde - 8fa",
+                "11:35 - 12:25 - 246 - Sportkunde - 8fa"
+            ],
+            "Lur": [
+                "13:20 - 14:10 - 233 - Religion Kath. - 5ga",
+                "08:45 - 09:35 - 139 - Religion Kath. - 5s",
+                "07:50 - 08:40 - 146 - Religion Kath. - 7db",
+                "10:45 - 11:35 - 37a - Religion Kath. - 7es",
+                "09:40 - 10:30 - 37b - Religion Kath. - 7fa",
+                "14:10 - 15:00 - 248 - Religion Kath. - 7p",
+                "11:35 - 12:25 - 245 - Religion Kath. - 8ga"
+            ],
+            "Rau": [
+                "10:45 - 11:35 - 271 - Deutsch - 5ga",
+                "12:25 - 13:15 - 148 - Latein - 6bn",
+                "07:50 - 08:40 - 238 - Deutsch - 6fa",
+                "07:50 - 08:40 - 238 - Deutsch - 6fa",
+                "09:40 - 10:30 - 237 - Latein - 6p",
+                "11:35 - 12:25 - 37a - Latein - 6s"
+            ],
+            "Sta": [
+                "08:45 - 09:35 - 244 - Englisch - 5ga",
+                "09:40 - 10:30 - 244 - Englisch - 5ga"
+            ],
+            "Okt": [
+                "08:45 - 09:35 - 233 - Englisch - 5ga",
+                "09:40 - 10:30 - 233 - Englisch - 5ga",
+                "12:25 - 13:15 - 139 - Englisch - 5s",
+                "11:35 - 12:25 - 139 - Englisch - 7aa",
+                "11:35 - 12:25 - 139 - Englisch - 7am",
+                "07:50 - 08:40 - U41 - Englisch - 7s"
+            ],
+            "Aue": [
+                "12:25 - 13:15 - 134 - Mathematik - 5ga",
+                "11:35 - 12:25 - 146 - Mathematik - 7db",
+                "10:45 - 11:35 - 138 - Mathematik - 8bn"
+            ],
+            "Wiv": [
+                "07:50 - 08:40 - 233 - Biologie Und Umweltbildung - 5ga",
+                "09:40 - 10:30 - 108 - Biologie Und Umweltbildung - 5p",
+                "08:45 - 09:35 - 108 - Biologie Und Umweltbildung - 6fa"
+            ],
+            "Kra": [
+                "11:35 - 12:25 - 233 - Geographie Und Wirtschaftsbildung - 5ga",
+                "07:50 - 08:40 - 109 - Englisch - 5p",
+                "08:45 - 09:35 - 109 - Englisch - 5p",
+                "09:40 - 10:30 - 245 - Englisch - 8ga",
+                "12:25 - 13:15 - 245 - Geographie Und Wirtschaftsbildung - 8ga"
+            ],
+            "Hul": [
+                "11:35 - 12:25 - 109 - Deutsch - 5p",
+                "10:45 - 11:35 - 109 - Franz\u00f6sisch - 5p",
+                "10:45 - 11:35 - 109 - Franz\u00f6sisch - 5s",
+                "07:50 - 08:40 - 239 - Deutsch - 8ci",
+                "08:45 - 09:35 - 239 - Franz\u00f6sisch - 8ci",
+                "08:45 - 09:35 - 239 - Franz\u00f6sisch - 8p",
+                "09:40 - 10:30 - U35 - Deutsch - 9t"
+            ],
+            "Buc": [
+                "07:50 - 08:40 - 139 - Deutsch - 5s",
+                "08:45 - 09:35 - U73 - Deutsch - 8s",
+                "10:45 - 11:35 - 247 - Deutsch - 8p"
+            ],
+            "May": [
+                "09:40 - 10:30 - 139 - Biologie Und Umweltbildung - 5s",
+                "10:45 - 11:35 - 108 - Biologie Und Umweltbildung - 5t",
+                "11:35 - 12:25 - 232 - Biologie Und Umweltbildung - 6ci",
+                "07:50 - 08:40 - 108 - Biologie Und Umweltbildung - 6s",
+                "08:45 - 09:35 - 243 - Biologie Und Umweltbildung - 9s",
+                "12:25 - 13:15 - 108 - Biologie Und Umweltbildung - 9t"
+            ],
+            "Kge": [
+                "09:40 - 10:30 - 109 - Englisch - 5t",
+                "10:45 - 11:35 - U42 - Englisch - 6es",
+                "07:50 - 08:40 - 144 - Englisch - 6t",
+                "12:25 - 13:15 - 144 - Biologie Und Umweltbildung - 6t"
+            ],
+            "Mue": [
+                "09:40 - 10:30 - 143 - Englisch - 5t",
+                "08:45 - 09:35 - 237 - Englisch - 6p",
+                "11:35 - 12:25 - 132 - Psych. U. Philos. - 7ci",
+                "07:50 - 08:40 - 145 - Englisch - 7t"
+            ],
+            "Scr": [
+                "07:50 - 08:40 - 143 - Mathematik - 5t",
+                "08:45 - 09:35 - 143 - Mathematik - 5t",
+                "07:50 - 08:40 - 143 - Mathematik - 5t",
+                "08:45 - 09:35 - 143 - Mathematik - 5t",
+                "11:35 - 12:25 - 143 - Geographie Und Wirtschaftsbildung - 5t",
+                "12:25 - 13:15 - 237 - Mathematik - 6p",
+                "10:45 - 11:35 - 239 - Mathematik - 8ci"
+            ],
+            "Kum": [
+                "08:45 - 09:35 - 4AK - Religion Islam - 6ab",
+                "08:45 - 09:35 - 4AK - Religion Islam - 6bn",
+                "09:40 - 10:30 - 248 - Religion Islam - 6t",
+                "09:40 - 10:30 - 248 - Religion Islam - 7fa"
+            ],
+            "Obr": [
+                "07:50 - 08:40 - 053 - Latein - 6ab",
+                "07:50 - 08:40 - 053 - Latein - 6am",
+                "08:45 - 09:35 - 240 - Latein - 8ab",
+                "08:45 - 09:35 - 240 - Latein - 8am"
+            ],
+            "Eus": [
+                "12:25 - 13:15 - 048 - Kunst Und Gestaltung - 6ab",
+                "13:20 - 14:10 - 048 - Kunst Und Gestaltung - 6ab"
+            ],
+            "Gsi": [
+                "13:20 - 14:10 - 049 - Kunst Und Gestaltung - 6am",
+                "12:25 - 13:15 - 049 - Kunst Und Gestaltung - 6am",
+                "07:50 - 08:40 - 049 - Kunst Und Gestaltung - 6p",
+                "09:40 - 10:30 - 049 - Kunst Und Gestaltung - 7db",
+                "10:45 - 11:35 - 049 - Kunst Und Gestaltung - 7db"
+            ],
+            "Bru": [
+                "08:45 - 09:35 - 238 - Religion Kath. - 6bn",
+                "09:40 - 10:30 - 232 - Religion Kath. - 6ci"
+            ],
+            "Ham": [
+                "12:25 - 13:15 - 37a - Franz\u00f6sisch - 6bn",
+                "12:25 - 13:15 - 37a - Franz\u00f6sisch - 6es",
+                "11:35 - 12:25 - 237 - Geschichte Und Politsche Bildung - 6p",
+                "10:45 - 11:35 - 055 - Geschichte Und Politsche Bildung - 7aa",
+                "10:45 - 11:35 - 055 - Geschichte Und Politsche Bildung - 7am",
+                "08:45 - 09:35 - Bib - Franz\u00f6sisch - 7fa",
+                "13:20 - 14:10 - 37b - Geschichte Und Politsche Bildung - 7fa",
+                "09:40 - 10:30 - 247 - Geschichte Und Politsche Bildung - 8p"
+            ],
+            "Boe": [
+                "10:45 - 11:35 - 143 - Geschichte Und Politsche Bildung - 6bn",
+                "09:40 - 10:30 - 148 - Geschichte Und Politsche Bildung - 7bn",
+                "07:50 - 08:40 - 111 - Biologie Und Umweltbildung 2 - 8bn",
+                "08:45 - 09:35 - 111 - Biologie Und Umweltbildung 2 - 8bn"
+            ],
+            "Kap": [
+                "12:25 - 13:15 - 232 - Informatik Wp - 6ci",
+                "13:20 - 14:10 - 232 - Informatik Wp - 6ci"
+            ],
+            "Sdo": [
+                "09:40 - 10:30 - 138 - Religion Griechisch-Orietalisch - 6ci",
+                "09:40 - 10:30 - 138 - Religion Griechisch-Orietalisch - 7fa"
+            ],
+            "Pau": [
+                "11:35 - 12:25 - U42 - Deutsch - 6es",
+                "07:50 - 08:40 - 37b - Deutsch - 7fa",
+                "08:45 - 09:35 - 145 - Deutsch - 7t",
+                "12:25 - 13:15 - 145 - Franz\u00f6sisch - 7t",
+                "10:45 - 11:35 - 245 - Franz\u00f6sisch - 8fa",
+                "10:45 - 11:35 - 245 - Franz\u00f6sisch - 8ga"
+            ],
+            "Obm": [
+                "08:45 - 09:35 - U42 - Mathematik - 6es",
+                "07:50 - 08:40 - 148 - Mathematik - 7bn",
+                "10:45 - 11:35 - 112 - Chemie - 8s",
+                "09:40 - 10:30 - 243 - Mathematik - 9s",
+                "11:35 - 12:25 - 243 - Chemie - 9s"
+            ],
+            "Beg": [
+                "09:40 - 10:30 - Aula - Mathematik - 6fa",
+                "12:25 - 13:15 - 244 - Englisch - 8ab",
+                "10:45 - 11:35 - 243 - Englisch - 9s"
+            ],
+            "Kaj": [
+                "12:25 - 13:15 - 111 - Physik - 6fa",
+                "13:20 - 14:10 - 111 - Physik - 8p"
+            ],
+            "Den": [
+                "11:35 - 12:25 - 238 - Geographie Und Wirtschaftsbildung - 6fa",
+                "10:45 - 11:35 - 237 - Deutsch - 6p",
+                "08:45 - 09:35 - 134 - Deutsch - 7p",
+                "09:40 - 10:30 - 134 - Deutsch - 7p",
+                "12:25 - 13:15 - 247 - Geographie Und Wirtschaftsbildung - 8p"
+            ],
+            "Reh": [
+                "11:35 - 12:25 - U65 - Englisch - 6ga",
+                "10:45 - 11:35 - 148 - Englisch - 6s",
+                "13:20 - 14:10 - TS2 - Bewegung Und Sport M\u00e4dchen - 7bn",
+                "14:10 - 15:00 - TS2 - Bewegung Und Sport M\u00e4dchen - 7bn",
+                "13:20 - 14:10 - TS2 - Bewegung Und Sport M\u00e4dchen - 7ci",
+                "14:10 - 15:00 - TS2 - Bewegung Und Sport M\u00e4dchen - 7ci",
+                "08:45 - 09:35 - 246 - Englisch - 8fa"
+            ],
+            "Lef": [
+                "09:40 - 10:30 - 238 - Franz\u00f6sisch - 6ga",
+                "09:40 - 10:30 - 238 - Franz\u00f6sisch - 6p",
+                "07:50 - 08:40 - 248 - Franz\u00f6sisch - 7ci",
+                "07:50 - 08:40 - 248 - Franz\u00f6sisch - 7p",
+                "12:25 - 13:15 - 143 - Franz\u00f6sisch - 7s",
+                "11:35 - 12:25 - 147 - Franz\u00f6sisch - 8s",
+                "11:35 - 12:25 - 147 - Franz\u00f6sisch - 8t",
+                "08:45 - 09:35 - 049 - Franz\u00f6sisch - 8ab",
+                "08:45 - 09:35 - 049 - Franz\u00f6sisch - 8am"
+            ],
+            "Pre": [
+                "08:45 - 09:35 - Aula - Mathematik - 6ga",
+                "09:40 - 10:30 - 055 - Mathematik - 7aa",
+                "09:40 - 10:30 - 055 - Mathematik - 7am"
+            ],
+            "Gam": [
+                "10:45 - 11:35 - U65 - Musik - 6ga",
+                "08:45 - 09:35 - 053 - Musik - 6t",
+                "09:40 - 10:30 - 37a - Psych. U. Philos. - 7es",
+                "11:35 - 12:25 - 247 - Psych. U. Philos. - 8p"
+            ],
+            "Pru": [
+                "13:20 - 14:10 - 237 - Physik - 6p",
+                "08:45 - 09:35 - 234 - Physik - 7db",
+                "12:25 - 13:15 - 37b - Physik - 7fa",
+                "11:35 - 12:25 - 37b - Psych. U. Philos. - 7fa",
+                "10:45 - 11:35 - 147 - Physik - 8t",
+                "09:40 - 10:30 - 246 - Psych. U. Philos. - 8fa"
+            ],
+            "Pei": [
+                "12:25 - 13:15 - 238 - Sportkunde - 6s",
+                "13:20 - 14:10 - TS3 - Bewegung Und Sport Knaben - 7bn",
+                "14:10 - 15:00 - TS3 - Bewegung Und Sport Knaben - 7bn",
+                "13:20 - 14:10 - TS3 - Bewegung Und Sport Knaben - 7ci",
+                "14:10 - 15:00 - TS3 - Bewegung Und Sport Knaben - 7ci",
+                "13:20 - 14:10 - TS3 - Bewegung Und Sport Knaben - 7db",
+                "14:10 - 15:00 - TS3 - Bewegung Und Sport Knaben - 7db",
+                "11:35 - 12:25 - U41 - Sportkunde - 7s"
+            ],
+            "Fin": [
+                "14:10 - 15:00 - 053 - Vokal (Gesang) - 7am",
+                "15:00 - 15:50 - 053 - Vokal (Gesang) - 7am",
+                "12:25 - 13:15 - Bib - Vokal (Gesang) - 8am"
+            ],
+            "Hal": [
+                "12:25 - 13:15 - 248 - Geschichte Und Politsche Bildung - 7p",
+                "09:40 - 10:30 - 147 - Geschichte Und Politsche Bildung - 8t"
+            ],
+            "Eck": [
+                "08:45 - 09:35 - U41 - Latein - 7s",
+                "11:35 - 12:25 - U73 - Latein - 8s",
+                "11:35 - 12:25 - U73 - Latein - 8t",
+                "08:45 - 09:35 - Aula - Latein - 8ci",
+                "10:45 - 11:35 - 244 - Latein - 8fa",
+                "10:45 - 11:35 - 244 - Latein - 8ga",
+                "08:45 - 09:35 - Aula - Latein - 8p",
+                "07:50 - 08:40 - 243 - Latein - 9s",
+                "07:50 - 08:40 - 243 - Latein - 9t"
+            ],
+            "Hoh": [
+                "09:40 - 10:30 - U73 - Englisch - 8s",
+                "08:45 - 09:35 - 247 - Englisch - 8fa"
+            ],
+            "Bau": [
+                "09:40 - 10:30 - 048 - Kunst Und Gestaltung - 8ab",
+                "10:45 - 11:35 - 048 - Kunst Und Gestaltung - 8ab"
+            ],
+            "Wbg": [
+                "09:40 - 10:30 - 140 - Physik2 - 8bn",
+                "10:45 - 11:35 - U35 - Netzwerktechnik - 9t",
+                "11:35 - 12:25 - U35 - Netzwerktechnik - 9t"
+            ],
+            "Kor": [
+                "07:50 - 08:40 - out - Outdoorsport - 8bs",
+                "08:45 - 09:35 - out - Outdoorsport - 8bs",
+                "09:40 - 10:30 - out - Outdoorsport - 8bs",
+                "10:45 - 11:35 - out - Outdoorsport - 8bs",
+                "11:35 - 12:25 - out - Outdoorsport - 8bs",
+                "12:25 - 13:15 - out - Outdoorsport - 8bs"
+            ]
+        }
+    ]
+}

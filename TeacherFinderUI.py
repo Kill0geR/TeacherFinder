@@ -1,21 +1,32 @@
 import datetime
+import json
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 from flask import Flask, render_template, request, redirect, url_for
 from TeacherFinder import Finder
 
 
-finder = Finder("Bashirufaw", "7nfScyThnzbd$")
-app = Flask(__name__)
-all_names = finder.get_all_dict()
-all_data = finder.get_teacher_table()
+def new_data(new_data_stream):
+    with open("data.json", 'r+') as file:
+        file_data = json.load(file)
+        if file_data["current_data"]: file_data["current_data"][0] = new_data_stream
+        else: file_data["current_data"].append(new_data_stream)
+
+        file.seek(0)
+        json.dump(file_data, file, indent=4)
 
 
 def update_teacher_table():
-    global all_data
     print("Aktualisiere die Lehrertabelle...")
-    all_data = finder.get_teacher_table()
+    get_new_data = finder.get_teacher_table()
+    new_data(get_new_data)
     print("Lehrertabelle erfolgreich aktualisiert.")
+
+
+finder = Finder("Bashirufaw", "7nfScyThnzbd$")
+all_names = finder.get_all_dict()
+get_data = finder.get_teacher_table()
+new_data(get_data)
 
 
 now = datetime.datetime.now()
@@ -25,6 +36,8 @@ scheduler = BackgroundScheduler()
 trigger = IntervalTrigger(hours=24, start_date=next_midnight, timezone="Europe/Vienna")
 scheduler.add_job(update_teacher_table, trigger)
 scheduler.start()
+
+app = Flask(__name__)
 
 
 @app.route("/")
@@ -36,6 +49,9 @@ def home():
 def find():
     teacher = request.form.get("input_string").strip().title()
     teacher_name = None
+
+    with open("data.json", 'r+') as file:
+        all_data = json.load(file)["current_data"][0]
 
     try:
         sorted_lst = Finder.sort_time_table(list(set((all_data.get(teacher, [])))))
