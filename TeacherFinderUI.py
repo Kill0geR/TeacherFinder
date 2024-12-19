@@ -8,9 +8,9 @@ from TeacherFinder import Finder
 
 def new_data(new_data_stream):
     with open("data.json", 'r+') as file:
+        print(new_data_stream)
         file_data = json.load(file)
-        if file_data["current_data"]: file_data["current_data"][0] = new_data_stream
-        else: file_data["current_data"].append(new_data_stream)
+        file_data["current_data"].append(new_data_stream)
 
         file.seek(0)
         json.dump(file_data, file, indent=4)
@@ -37,6 +37,7 @@ trigger = IntervalTrigger(hours=24, start_date=next_midnight, timezone="Europe/V
 scheduler.add_job(update_teacher_table, trigger)
 scheduler.start()
 
+print(trigger)
 app = Flask(__name__)
 
 
@@ -51,7 +52,7 @@ def find():
     teacher_name = None
 
     with open("data.json", 'r+') as file:
-        all_data = json.load(file)["current_data"][0]
+        all_data = json.load(file)["current_data"][-1]
 
     try:
         sorted_lst = Finder.sort_time_table(list(set((all_data.get(teacher, [])))))
